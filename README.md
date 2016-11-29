@@ -14,7 +14,6 @@
 - Adversarial Training Methods for Semo-Supervised Text Classification [[arXiv]](https://arxiv.org/pdf/1605.07725v2.pdf)
 
 ## Regularization (Last updated Nov 29, 2016)
-----------------------------------------------
 - A Simple Way to Initialize Recurrent Networks of Rectified Linear Units [[arXiv]](https://arxiv.org/pdf/1504.00941v2.pdf)
 - Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations [[arXiv]](https://arxiv.org/pdf/1606.01305v2.pdf)
 - Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks [[NIPS]](https://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks.pdf)
@@ -27,12 +26,11 @@
 - Dropout Training as Adaptive Regularization [[NIPS]](https://papers.nips.cc/paper/4882-dropout-training-as-adaptive-regularization.pdf)
 
 ## Architectures (Last Updated Nov 29, 2016)
----------------------------------------------
-** Convolutional Neural Networks**
+### Convolutional Neural Networks
 - Deeply-Fused Nets [[arXiv]](https://arxiv.org/pdf/1605.07716v1.pdf)
 - FractalNet: Ultra-Deep Neural Networks Without Residuals [[arXiv]](https://arxiv.org/pdf/1605.07648v2.pdf)
 - Higher Order Recurrent Networks [[arXiv]](https://arxiv.org/pdf/1605.00064v1.pdf)
-** Recurrent Neural Networks**
+### Recurrent Neural Networks
 - Gated Recurrent Units [[arXiv]](https://arxiv.org/pdf/1406.1078v3.pdf), [[arXiv]](https://arxiv.org/pdf/1412.3555v1.pdf)
 - Grid Long-Short Term Memory [[arXiv]](https://arxiv.org/pdf/1507.01526v3.pdf)
 - Simplifying Long-Short term Memory Acoustic For Fast Training and Decoding [[Microsoft]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/lstm_simplification-1.pdf)
@@ -48,7 +46,6 @@
 - Quasi-Recurrent Neural Networks [[arXiv]](https://arxiv.org/pdf/1611.01576v2.pdf)
 
 ## DL Theory (Last Updated Nov 29, 2016)
---------------------------------------
 - A Mathematical Motivation for Complex-valued Convolutional Networks [[arXiv]](https://arxiv.org/pdf/1503.03438v3.pdf)
 - A Probabilistic Theory of Deep Learning [[arXiv]](https://arxiv.org/pdf/1504.00641v1.pdf)
 - A Theoretically Grounded Application of Dropout in Recurrent Neural Networks [[arXiv]](https://arxiv.org/pdf/1512.05287v5.pdf)
@@ -58,26 +55,22 @@
 - The loss surface of Multilayer Nets [[arXiv]](https://arxiv.org/pdf/1412.0233v3.pdf)
 
 ## Training Algorithms (Last Updated Nov 29, 2016)
----------------------------------------------------
 - Training Recurrent Networks Online Without Backtracking [[arXiv]](https://arxiv.org/pdf/1507.07680v2.pdf)
 - Training Recurrent Neural Network by Diffusion [[arXiv]](https://arxiv.org/pdf/1601.04114v2.pdf)
 - How (not) to Train Your Generative Model: Scheduled Sampling, Likelihood, Adversary? [[arXiv]](https://arxiv.org/pdf/1511.05101.pdf)
 
 ## Reinforcement Learning (Last Updated Nov 29, 2016)
---------------------------------------------------
 - A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models [[arXiv]](https://arxiv.org/pdf/1611.03852v3.pdf)
 - Neural Architecture Search with Reinforcement Learning [[arXiv]](https://arxiv.org/pdf/1611.01578v1.pdf)
 - Reinforcement Learning with Unsupervised Auxiliary Tasks [[arXiv]](https://arxiv.org/pdf/1611.05397v1.pdf)
 
 ## Iconic (Last Updated Nov 29, 2016)
-----------------------------------
 - Building High-level Features Using Large Scale Unsupervised Learning [[arXiv]](https://arxiv.org/pdf/1112.6209.pdf)
 - ImageNet Classification with Deep Convolutional Neural Networks [[NIPS]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - Dropout: A Simple Way to Prevent Neural Networks from Overfitting [[JMLR]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 - Long Short-Term Memory [[CMU]](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)
 
 ## Others (Last Updated Nov 29, 2016)
------------------------------------------
 - Categorical Reparameterization with Gumbel-Softmax [[arXiv]](https://arxiv.org/pdf/1611.01144v2.pdf)
 - Growing Recursive Self-Improvers [[IDSIA]](http://people.idsia.ch/~steunebrink/Publications/AGI16_growing_recursive_self-improvers.pdf)
 
