@@ -30,6 +30,7 @@
 - Deeply-Fused Nets [[arXiv]](https://arxiv.org/pdf/1605.07716v1.pdf)
 - FractalNet: Ultra-Deep Neural Networks Without Residuals [[arXiv]](https://arxiv.org/pdf/1605.07648v2.pdf)
 - Higher Order Recurrent Networks [[arXiv]](https://arxiv.org/pdf/1605.00064v1.pdf)
+
 ### Recurrent Neural Networks
 - Gated Recurrent Units [[arXiv]](https://arxiv.org/pdf/1406.1078v3.pdf), [[arXiv]](https://arxiv.org/pdf/1412.3555v1.pdf)
 - Grid Long-Short Term Memory [[arXiv]](https://arxiv.org/pdf/1507.01526v3.pdf)
