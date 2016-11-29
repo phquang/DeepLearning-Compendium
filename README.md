@@ -1,6 +1,12 @@
 # Paper List
 ==========
 
+## Iconic (Last Updated Nov 29, 2016)
+- Building High-level Features Using Large Scale Unsupervised Learning [[arXiv]](https://arxiv.org/pdf/1112.6209.pdf)
+- ImageNet Classification with Deep Convolutional Neural Networks [[NIPS]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- Dropout: A Simple Way to Prevent Neural Networks from Overfitting [[JMLR]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+- Long Short-Term Memory [[CMU]](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)
+
 ## Generative Adversarial Networks (Last updated Nov 29, 2016)
 - Generative Adversarial Networks [[arXiv]](https://arxiv.org/pdf/1406.2661v1.pdf)
 - Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [[arXiv]](https://arxiv.org/pdf/1506.05751.pdf)
@@ -65,11 +71,43 @@
 - Neural Architecture Search with Reinforcement Learning [[arXiv]](https://arxiv.org/pdf/1611.01578v1.pdf)
 - Reinforcement Learning with Unsupervised Auxiliary Tasks [[arXiv]](https://arxiv.org/pdf/1611.05397v1.pdf)
 
-## Iconic (Last Updated Nov 29, 2016)
-- Building High-level Features Using Large Scale Unsupervised Learning [[arXiv]](https://arxiv.org/pdf/1112.6209.pdf)
-- ImageNet Classification with Deep Convolutional Neural Networks [[NIPS]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-- Dropout: A Simple Way to Prevent Neural Networks from Overfitting [[JMLR]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
-- Long Short-Term Memory [[CMU]](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)
+## Aplications (Last Updated Nov 29, 2016)
+### Neural Language Modeling
+- A Neural Probabilistic Language Model [[JMLR]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+- Distributed Representation of Words and Phrases and their Compositionality [[NIPS]](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+- Character-level Convolutional Networks for Text Classification [[NIPS]](https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
+- Character-Aware Neural Language Models [[arXiv]](https://arxiv.org/pdf/1508.06615.pdf)
+- Skip-thought Vectors [[arXiv]](https://arxiv.org/pdf/1506.06726v1.pdf)
+- Distributed Representations of Sentences and Documents [[arXiv]](https://arxiv.org/pdf/1405.4053v2.pdf)
+
+### Video Action Recognition/Detection
+- Learning Spatiotemporal Features with 3D Convolutional Networks [[arXiv]](https://arxiv.org/pdf/1412.0767.pdf)
+- Two-Stream Convolutional Networks for Action Recognition in Videos [[arXiv]](https://arxiv.org/pdf/1406.2199.pdf)
+- Convolutional Two-Stream Network Fusion for Video Action Recognition [[arXiv]](https://arxiv.org/pdf/1604.06573v2.pdf)
+- End-to-end Learning of Action Detection from Frame Glimpses in Videos [[arXiv]](https://arxiv.org/pdf/1511.06984.pdf)
+- Learning Temporal Embeddings for Complex Video Analysis [[arXiv]](https://arxiv.org/pdf/1505.00315v1.pdf)
+- Action Recognition using Visual Attention [[arXiv]](https://arxiv.org/pdf/1511.04119v3.pdf)
+- Dynamic Image Networks for Action Recognition [[Oxford]](https://www.robots.ox.ac.uk/~vgg/publications/2016/Bilen16a/bilen16a.pdf)
+- Fusing Multi-Stream Deep Networks for Video Classification [[arXiv]](https://arxiv.org/pdf/1509.06086v2.pdf)
+
+### Image Captioning
+- Show and Tell: A Neural Image Caption Generator [[arXiv]](https://arxiv.org/pdf/1411.4555v2.pdf)
+- Show, Attend and Tell: Neural Image Caption Generation with Visual Attention [[arXiv]](https://arxiv.org/pdf/1502.03044.pdf)
+- DenseCap: Fully Convolutional Localization Networks for Dense Captioning [[arXiv]](https://arxiv.org/pdf/1511.07571v1.pdf)
+
+### Visual Question Answering
+- Generating Natural Questions About an Image [[ACL]](https://aclweb.org/anthology/P/P16/P16-1170.pdf)
+- Neural Module Networks [[arXiv]](https://arxiv.org/pdf/1511.02799.pdf)
+- Dynamic Memory Networks for Visual and Textual Question Answering [[JMLR]](http://jmlr.org/proceedings/papers/v48/xiong16.pdf)
+- Stacked Attention Networks for Image Question Answering [[arXiv]](https://arxiv.org/pdf/1511.02274v2.pdf)
+- Learning to Compose Neural Networks for Question Answering [[ACL]](http://www.aclweb.org/anthology/N16-1181)
+- Ask Your Neurons: A Neural-based Approach to Answering Questions about Images [[arXiv]](https://arxiv.org/pdf/1505.01121v3.pdf)
+- Exploring Models and Data for Image Question Answering [[arXiv]](https://arxiv.org/pdf/1505.02074v4.pdf)
+- VQA: Visual Question Answering [[arXiv]](https://arxiv.org/pdf/1505.00468.pdf)
+- Ask Me Anything: Free-form Visual Question Answering Based on Knowledge from External Sources [[arXiv]](https://arxiv.org/pdf/1511.06973.pdf)
+- VisKE: Visual Knowledge Extraction and Question Answering by Visual Verification of Relation Phrases [[VISKE]](http://viske.cs.washington.edu/paper/fsadeghi_VisKE.pdf)
+- Image Captioning and Visual Question Answering Based on Attributes and Their Related External Knowledge [[arXiv]](https://arxiv.org/pdf/1603.02814v1.pdf)
+
 
 ## Others (Last Updated Nov 29, 2016)
 - Categorical Reparameterization with Gumbel-Softmax [[arXiv]](https://arxiv.org/pdf/1611.01144v2.pdf)
