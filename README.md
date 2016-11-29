@@ -74,6 +74,7 @@ Iconic (Last Updated Nov 29, 2016)
 2. ImageNet Classification with Deep Convolutional Neural Networks [[NIPS]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 3. Dropout: A Simple Way to Prevent Neural Networks from Overfitting [[JMLR]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 4. Long Short-Term Memory [[CMU]](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)
+
 Others (Last Updated Nov 29, 2016)
 -----------------------------------------
 1. Categorical Reparameterization with Gumbel-Softmax [[arXiv]](https://arxiv.org/pdf/1611.01144v2.pdf)
