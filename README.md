@@ -7,7 +7,7 @@
 - Dropout: A Simple Way to Prevent Neural Networks from Overfitting [[JMLR]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 - Long Short-Term Memory [[CMU]](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)
 
-## Generative Adversarial Networks (Last updated Nov 29, 2016)
+## Generative Adversarial Networks (Last Updated Nov 29, 2016)
 - Generative Adversarial Networks [[arXiv]](https://arxiv.org/pdf/1406.2661v1.pdf)
 - Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [[arXiv]](https://arxiv.org/pdf/1506.05751.pdf)
 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv]](https://arxiv.org/pdf/1511.06434v2.pdf)
@@ -18,6 +18,9 @@
 - Adversarial Autoencoders [[arXiv]](https://arxiv.org/pdf/1511.05644.pdf)
 - Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks [[arXiv]](https://arxiv.org/pdf/1511.06390v2.pdf)
 - Adversarial Training Methods for Semo-Supervised Text Classification [[arXiv]](https://arxiv.org/pdf/1605.07725v2.pdf)
+
+## Generative Models (Last Updated Nov 30, 2016)
+- Pixel Recurrent Neural Network [[arXiv]](https://arxiv.org/pdf/1601.06759v3.pdf)
 
 ## Regularization (Last updated Nov 29, 2016)
 - A Simple Way to Initialize Recurrent Networks of Rectified Linear Units [[arXiv]](https://arxiv.org/pdf/1504.00941v2.pdf)
@@ -71,7 +74,7 @@
 - Neural Architecture Search with Reinforcement Learning [[arXiv]](https://arxiv.org/pdf/1611.01578v1.pdf)
 - Reinforcement Learning with Unsupervised Auxiliary Tasks [[arXiv]](https://arxiv.org/pdf/1611.05397v1.pdf)
 
-## Aplications (Last Updated Nov 29, 2016)
+## Aplications (Last Updated Nov 30, 2016)
 ### Neural Language Modeling
 - A Neural Probabilistic Language Model [[JMLR]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - Distributed Representation of Words and Phrases and their Compositionality [[NIPS]](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
@@ -89,6 +92,7 @@
 - Action Recognition using Visual Attention [[arXiv]](https://arxiv.org/pdf/1511.04119v3.pdf)
 - Dynamic Image Networks for Action Recognition [[Oxford]](https://www.robots.ox.ac.uk/~vgg/publications/2016/Bilen16a/bilen16a.pdf)
 - Fusing Multi-Stream Deep Networks for Video Classification [[arXiv]](https://arxiv.org/pdf/1509.06086v2.pdf)
+- Modeling Video Evolution for Action Recognition [[Oxford]](https://www.robots.ox.ac.uk/~vgg/rg/papers/videoDarwin.pdf)
 
 ### Image Captioning
 - Show and Tell: A Neural Image Caption Generator [[arXiv]](https://arxiv.org/pdf/1411.4555v2.pdf)
@@ -96,6 +100,7 @@
 - DenseCap: Fully Convolutional Localization Networks for Dense Captioning [[arXiv]](https://arxiv.org/pdf/1511.07571v1.pdf)
 
 ### Visual Question Answering
+- Visual Question Answering: A Survey of Methods and Datasets [[arXiv]](https://arxiv.org/pdf/1607.05910v1.pdf)
 - Generating Natural Questions About an Image [[ACL]](https://aclweb.org/anthology/P/P16/P16-1170.pdf)
 - Neural Module Networks [[arXiv]](https://arxiv.org/pdf/1511.02799.pdf)
 - Dynamic Memory Networks for Visual and Textual Question Answering [[JMLR]](http://jmlr.org/proceedings/papers/v48/xiong16.pdf)
@@ -108,9 +113,21 @@
 - VisKE: Visual Knowledge Extraction and Question Answering by Visual Verification of Relation Phrases [[VISKE]](http://viske.cs.washington.edu/paper/fsadeghi_VisKE.pdf)
 - Image Captioning and Visual Question Answering Based on Attributes and Their Related External Knowledge [[arXiv]](https://arxiv.org/pdf/1603.02814v1.pdf)
 
+### Object Detection
+- Rich feature hierarchies for accurate object detection and semantic segmentation [[arXiv]](https://arxiv.org/pdf/1311.2524v5.pdf)
+- Fast R-CNN [[arXiv]](https://arxiv.org/pdf/1504.08083v2.pdf)
+- Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[arXiv]](https://arxiv.org/pdf/1506.01497.pdf)
+- You Only Look Once: Unified, Real-Time Object Detection [[arXiv]](https://arxiv.org/pdf/1506.02640.pdf)
+- SSD: Single Shot MultiBox Detector [[arXiv]](https://arxiv.org/pdf/1512.02325v3.pdf)
+- R-CNN minus R [[arXiv]](https://arxiv.org/pdf/1506.06981v1.pdf)
+
+## Distillation and Bayesian Dark Knowledge
+- Do deep Nets Really Need to be Deep? [[NIPS]](http://papers.nips.cc/paper/5484-do-deep-nets-really-need-to-be-deep.pdf)
+- Distilling the Knowledge in a Neural Network [[arXiv]](http://arxiv.org/pdf/1503.02531v1.pdf)
+- Bayesian Learning via Stochastic Gradient Langevin Dynamics [[ICML]](http://www.icml-2011.org/papers/398_icmlpaper.pdf)
+- Bayesian Dark Knowledge [[NIPS]](https://papers.nips.cc/paper/5965-bayesian-dark-knowledge.pdf)
 
 ## Others (Last Updated Nov 29, 2016)
 - Categorical Reparameterization with Gumbel-Softmax [[arXiv]](https://arxiv.org/pdf/1611.01144v2.pdf)
 - Growing Recursive Self-Improvers [[IDSIA]](http://people.idsia.ch/~steunebrink/Publications/AGI16_growing_recursive_self-improvers.pdf)
-
-
+- Neural Programmer-Interpreters [[arXiv]](https://arxiv.org/pdf/1511.06279v4.pdf)
