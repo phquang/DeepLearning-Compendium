@@ -21,6 +21,7 @@
 
 ## Generative Models (Last Updated Nov 30, 2016)
 - Pixel Recurrent Neural Network [[arXiv]](https://arxiv.org/pdf/1601.06759v3.pdf)
+- Discrete Variational Autoencoder [[Temp]](http://openreview.net/pdf?id=ryMxXPFex)
 
 ## Regularization (Last updated Nov 29, 2016)
 - A Simple Way to Initialize Recurrent Networks of Rectified Linear Units [[arXiv]](https://arxiv.org/pdf/1504.00941v2.pdf)
@@ -35,6 +36,8 @@
 - Dropout Training as Adaptive Regularization [[NIPS]](https://papers.nips.cc/paper/4882-dropout-training-as-adaptive-regularization.pdf)
 - Dropout Distillation [[JMLR]](http://jmlr.org/proceedings/papers/v48/bulo16.pdf)
 - Regularizing RNNs by Stabilizing Activations [[arXiv]](https://arxiv.org/pdf/1511.08400v7.pdf)
+- Unsupervised Pretraining for Sequence to Sequence Learning [[Temp]](http://openreview.net/pdf?id=H1Gq5Q9el)
+- Dropout with Expectation-Linear Regularization [[Temp]](http://openreview.net/pdf?id=rkGabzZgl)
 
 ## Architectures (Last Updated Nov 29, 2016)
 
@@ -68,6 +71,8 @@
 - Minimal Gated Unit for Recurrent Neural Networks [[arXiv]](https://arxiv.org/pdf/1603.09420.pdf)
 - Hierarchical Multiscale Recurrent Neural Networks [[arXiv]](https://arxiv.org/pdf/1609.01704.pdf)
 - LightRNN: Memory and Computation-Efficient Recurrent Neural Networks [[arXiv]](https://arxiv.org/pdf/1610.09893v1.pdf)
+- Hierarchical Multiscale Recurrent Neural Networks [[arXiv]](https://arxiv.org/pdf/1609.01704v4.pdf)
+- Higher Order Recurrent Neural Networks [[Temp]](http://openreview.net/pdf?id=ByZvfijeg)
 
 ## DL Theory (Last Updated Nov 29, 2016)
 - A Mathematical Motivation for Complex-valued Convolutional Networks [[arXiv]](https://arxiv.org/pdf/1503.03438v3.pdf)
@@ -98,4 +103,6 @@
 - Categorical Reparameterization with Gumbel-Softmax [[arXiv]](https://arxiv.org/pdf/1611.01144v2.pdf)
 - Growing Recursive Self-Improvers [[IDSIA]](http://people.idsia.ch/~steunebrink/Publications/AGI16_growing_recursive_self-improvers.pdf)
 - Neural Programmer-Interpreters [[arXiv]](https://arxiv.org/pdf/1511.06279v4.pdf)
+- Nonparametric Neural Networks [[Temp]](https://openreview.net/pdf?id=BJK3Xasel)
+- On Orthogonality and Learning Recurrent Networks with Long Term Dependencies [[Temp]](https://openreview.net/pdf?id=HkuVu3ige)
 
