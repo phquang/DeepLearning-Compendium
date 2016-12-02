@@ -35,6 +35,12 @@
 - Dropout Training as Adaptive Regularization [[NIPS]](https://papers.nips.cc/paper/4882-dropout-training-as-adaptive-regularization.pdf)
 
 ## Architectures (Last Updated Nov 29, 2016)
+
+### General Deep Nets
+- Fitnets: Hints for Thin Deep Nets [[arXiv]](https://arxiv.org/pdf/1412.6550v4.pdf)
+- Highway Networks [[arXiv]](https://arxiv.org/pdf/1505.00387.pdf)
+- Deeply-Supervised Nets [[JMLR]](http://jmlr.org/proceedings/papers/v38/lee15a.pdf)
+
 ### Convolutional Neural Networks
 - Visualizing and Comparing Convolutional Neural Networks [[arXiv]](https://arxiv.org/pdf/1412.6631v2.pdf)
 - Deeply-Fused Nets [[arXiv]](https://arxiv.org/pdf/1605.07716v1.pdf)
@@ -43,6 +49,7 @@
 - Rethinking the Inception Architecture for Computer Vision [[arXiv]](https://arxiv.org/pdf/1512.00567v3.pdf)
 
 ### Recurrent Neural Networks
+- How to Construct Deep Recurrent Neural Networks [[arXiv]](https://arxiv.org/pdf/1312.6026v5.pdf)
 - Gated Recurrent Units [[arXiv]](https://arxiv.org/pdf/1406.1078v3.pdf), [[arXiv]](https://arxiv.org/pdf/1412.3555v1.pdf)
 - Grid Long-Short Term Memory [[arXiv]](https://arxiv.org/pdf/1507.01526v3.pdf)
 - Simplifying Long-Short term Memory Acoustic For Fast Training and Decoding [[Microsoft]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/lstm_simplification-1.pdf)
