@@ -34,6 +34,7 @@
 - Layer Normalization [[arXiv]](https://arxiv.org/pdf/1607.06450.pdf)
 - Dropout Training as Adaptive Regularization [[NIPS]](https://papers.nips.cc/paper/4882-dropout-training-as-adaptive-regularization.pdf)
 - Dropout Distillation [[JMLR]](http://jmlr.org/proceedings/papers/v48/bulo16.pdf)
+- Regularizing RNNs by Stabilizing Activations [[arXiv]](https://arxiv.org/pdf/1511.08400v7.pdf)
 
 ## Architectures (Last Updated Nov 29, 2016)
 
