@@ -28,7 +28,6 @@
 - Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations [[arXiv]](https://arxiv.org/pdf/1606.01305v2.pdf)
 - Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks [[NIPS]](https://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks.pdf)
 - Semi-supervised Sequence Learning [[NIPS]](https://papers.nips.cc/paper/5949-semi-supervised-sequence-learning.pdf)
-- A Simple Way to Initialize Recurrent Networks of Rectified Linear Units [[arXiv]](https://arxiv.org/pdf/1504.00941.pdf)
 - Recurrent Neural Network Regularization [[arXiv]](https://arxiv.org/pdf/1409.2329.pdf)
 - Regularizing RNNs by Stabilizing Activations [[arXiv]](https://arxiv.org/pdf/1511.08400v7.pdf)
 - Recurrent Batch Normalization [[arXiv]](https://arxiv.org/pdf/1603.09025.pdf)
