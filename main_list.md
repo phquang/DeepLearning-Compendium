@@ -33,6 +33,7 @@
 - Recurrent Batch Normalization [[arXiv]](https://arxiv.org/pdf/1603.09025.pdf)
 - Layer Normalization [[arXiv]](https://arxiv.org/pdf/1607.06450.pdf)
 - Dropout Training as Adaptive Regularization [[NIPS]](https://papers.nips.cc/paper/4882-dropout-training-as-adaptive-regularization.pdf)
+- Dropout Distillation [[JMLR]](http://jmlr.org/proceedings/papers/v48/bulo16.pdf)
 
 ## Architectures (Last Updated Nov 29, 2016)
 
