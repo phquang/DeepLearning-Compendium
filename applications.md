@@ -23,12 +23,14 @@
 - Show and Tell: A Neural Image Caption Generator [[arXiv]](https://arxiv.org/pdf/1411.4555v2.pdf)
 - Show, Attend and Tell: Neural Image Caption Generation with Visual Attention [[arXiv]](https://arxiv.org/pdf/1502.03044.pdf)
 - DenseCap: Fully Convolutional Localization Networks for Dense Captioning [[arXiv]](https://arxiv.org/pdf/1511.07571v1.pdf)
+- What value do explicit high level concepts have in vision to language problems?[[arXiv]](https://arxiv.org/pdf/1506.01144v6.pdf)
+- Phrase-based Image Captioning [[arXiv]](https://arxiv.org/pdf/1502.03671.pdf)
 
 ### Databases (Last Updated Dec 1, 2016)
 - Neural Enquirer: Learning to Query Tables with Natural Language [[arXiv]](https://arxiv.org/pdf/1512.00965v2.pdf)
 - TensorLog: A Differentiable Deductive Database [[arXiv]](https://arxiv.org/pdf/1605.06523v2.pdf)
 
-### Visual Question Answering (Last Updated Dec 1, 2016)
+### Visual Question Answering (Last Updated Dec 4, 2016)
 - Visual Question Answering: A Survey of Methods and Datasets [[arXiv]](https://arxiv.org/pdf/1607.05910v1.pdf)
 - Generating Natural Questions About an Image [[ACL]](https://aclweb.org/anthology/P/P16/P16-1170.pdf)
 - Neural Module Networks [[arXiv]](https://arxiv.org/pdf/1511.02799.pdf)
@@ -41,6 +43,11 @@
 - Ask Me Anything: Free-form Visual Question Answering Based on Knowledge from External Sources [[arXiv]](https://arxiv.org/pdf/1511.06973.pdf)
 - VisKE: Visual Knowledge Extraction and Question Answering by Visual Verification of Relation Phrases [[VISKE]](http://viske.cs.washington.edu/paper/fsadeghi_VisKE.pdf)
 - Image Captioning and Visual Question Answering Based on Attributes and Their Related External Knowledge [[arXiv]](https://arxiv.org/pdf/1603.02814v1.pdf)
+- Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering [[arXiv]](https://arxiv.org/pdf/1505.05612v3.pdf)
+- Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding [[arXiv]](https://arxiv.org/pdf/1606.01847.pdf)
+- Hadamard Product for Low-rank Bilinear Pooling [[arXiv]](https://arxiv.org/pdf/1610.04325v2.pdf)
+- Uncovering Temporal Context for Video Question and Answering [[arXiv]](https://arxiv.org/pdf/1511.04670v1.pdf)
+- Understanding Stories in Movies through Question-Answering [[arXiv]](https://arxiv.org/pdf/1512.02902v2.pdf)
 
 ### Chatbot (Last Updated Dec 1, 2016)
 - Neural Responding Machine for Short-Text Conversation [[arXiv]](https://arxiv.org/pdf/1503.02364v2.pdf)
