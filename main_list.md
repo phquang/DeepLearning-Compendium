@@ -1,7 +1,7 @@
 # Paper List
 ==========
 
-## Iconic (Last Updated Nov 29, 2016)
+## Must Read (Last Updated Nov 29, 2016)
 - Building High-level Features Using Large Scale Unsupervised Learning [[arXiv]](https://arxiv.org/abs/1112.6209)
 - ImageNet Classification with Deep Convolutional Neural Networks [[NIPS]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-)
 - Dropout: A Simple Way to Prevent Neural Networks from Overfitting [[JMLR]](http://www.jmlr.org/papers/v15/srivastava14a.html)
