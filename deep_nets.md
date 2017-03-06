@@ -8,4 +8,4 @@
 - Deeply-Supervised Nets [[JMLR]](http://jmlr.org/proceedings/papers/v38/lee15a.pdf)
 - Densely Connected Convolutional Networks [[arXiv]](https://arxiv.org/abs/1608.06993)
 - AdaNet: Adaptive Structural Learning of Artificial Neural Networks [[arXiv]](https://arxiv.org/abs/1607.01097)
-
+- HyperNetworks [[arXiv]](https://arxiv.org/abs/1609.09106)
