@@ -12,3 +12,6 @@
 - Residual Networks Behave Like Ensembles of Relatively Shallow Networks [[arXiv]](https://arxiv.org/abs/1605.06431)
 - Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks [[NIPS]](http://papers.nips.cc/paper/6114-weight-normalization-a-simple-reparameterization-to-accelerate-training-of-deep-neural-networks.pdf)
 - Highway and Residual Networks learn Unrolled Iterative Estimation [[arXiv]](https://arxiv.org/abs/1612.07771)
+- Understanding Deep Learning Requires Rethinking Generalization [[arXiv]](https://arxiv.org/abs/1611.03530)
+- Memory Augmented Neural Networks with Wormhole Connections [[arXiv]](https://arxiv.org/abs/1701.08718)
+
